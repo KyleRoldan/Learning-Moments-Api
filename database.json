@@ -37,9 +37,10 @@
       "cohort": "Cohort D"
     },
     {
+      "name": "",
       "email": "kyle.alexander.roldan@gmail.com",
-      "fullName": "kyle",
       "cohort": 67,
+      "fullName": "Kyle Roldan",
       "id": 7
     }
   ],
@@ -301,6 +302,22 @@
       "topicsId": 4,
       "userId": 7,
       "id": 31
+    },
+    {
+      "title": "React",
+      "body": "This took long",
+      "date": "2023-10-15T17:36:44.709Z",
+      "topicsId": 6,
+      "userId": 7,
+      "id": 32
+    },
+    {
+      "title": "nn",
+      "body": "jbkbk",
+      "date": "2023-10-15T18:00:20.991Z",
+      "topicsId": 5,
+      "userId": 7,
+      "id": 33
     }
   ],
   "likes": [
